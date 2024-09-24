@@ -13,7 +13,9 @@ A simple and intuitive stopwatch and timer application that allows you to track 
 
 ## Screenshots
 
-[Include screenshots of the user interface here]
+### Stopwatch Mode
+![Stopwatch Screenshot](.stopwatch.png)
+
 
 ## Installation
 
