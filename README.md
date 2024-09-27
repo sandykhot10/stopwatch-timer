@@ -11,12 +11,6 @@ A simple and intuitive stopwatch and timer application that allows you to track 
 - **Customizable Alarms**: Select different sounds or notifications for when the timer finishes.
 - **Lightweight & Fast**: The application is optimized to be lightweight and fast, with minimal resource consumption.
 
-## Screenshots
-
-### Stopwatch Mode
-![Stopwatch Screenshot](.stopwatch.png)
-
-
 ## Installation
 
 ### Prerequisites
